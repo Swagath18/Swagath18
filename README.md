@@ -22,5 +22,5 @@ Welcome to my GitHub! I’m a **Machine Learning Engineer**, **AI Researcher**, 
 - I enjoy solving coding challenges.
 - I am passionate about using technology to make a positive impact in the world!
 - In my free time, I enjoy cooking delicious meals, playing basketball, tennis, working out, and spending quality time with friends and family.
-- 
+
 Feel free to explore my repositories, and let’s connect if you’d like to collaborate on exciting AI/ML projects!
