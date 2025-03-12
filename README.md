@@ -4,10 +4,10 @@ Welcome to my GitHub! I’m a **Machine Learning Engineer**, **AI Researcher**, 
 
 ## About Me
 
-- 🔭 I’m currently working as a **Machine Learning Engineer & Researcher** at UCLA.
-- 🌱 I'm actively building innovative AI solutions, including **RAG-based chatbots**, **ML pipelines**, and **NLP models** for real-world applications.
+- 🔭 I’m currently working as a **Machine Learning Engineer & Researcher** at UCLA till March 31st 2025, looking for Machine learning and Data science role actively.
+- 🌱 I'm actively building innovative AI solutions, including **RAG-based chatbots**, **Translation**, **ML pipelines**, and **NLP models** for real-world applications.
 - 💡 Passionate about transforming complex data into actionable insights through machine learning and deep learning.
-- 💬 I love sharing my knowledge and helping others grow in AI/ML and I was **Machine Learning Tutor** at UCLA.
+- 💬 I love sharing my knowledge and helping others grow in AI/ML and I was **Machine Learning Tutor** and **Graduate Teaching Assistant** for Python and Java at **UCLA**.
 - 📚 I hold a **Master’s in Electrical and Computer Engineering** from **UCLA**, with extensive coursework in **Deep Learning**, **NLP**, **Computer Vision**, and **Data Analytics**.
 
 ## 🚀 Key Skills
