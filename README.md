@@ -14,7 +14,7 @@ Welcome to my GitHub! I’m a **Machine Learning Engineer**, **AI Researcher**, 
 
 - 📧 Email: [swagathb18@g.ucla.edu](mailto:swagathb18@g.ucla.edu)
 - 💼 LinkedIn: [linkedin.com/in/swagathb](https://linkedin.com/in/swagathb)
-- 🐱 GitHub: [github.com/Swagath18](https://github.com/Swagath18)
+- 🐱 Website: [swagath18.github.io/](https://swagath18.github.io/)
 
 ## ⚡ Fun Facts
 
