@@ -10,10 +10,6 @@ Welcome to my GitHub! I’m a **Machine Learning Engineer**, **AI Researcher**, 
 - 💬 I love sharing my knowledge and helping others grow in AI/ML and I was **Machine Learning Tutor** and **Graduate Teaching Assistant** for Python and Java at **UCLA**.
 - 📚 I hold a **Master’s in Electrical and Computer Engineering** from **UCLA**, with extensive coursework in **Deep Learning**, **NLP**, **Computer Vision**, and **Data Analytics**.
 
-## 📫 How to Reach Me
-
-- 📧 Email: [swagathb18@g.ucla.edu](mailto:swagathb18@g.ucla.edu)
-
 ## ⚡ Fun Facts
 
 - I love exploring new AI/ML research and staying up to date with the latest technologies.
